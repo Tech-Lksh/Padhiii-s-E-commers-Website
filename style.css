@@ -1052,7 +1052,7 @@ footer .copyright {
     }
 
     #hero {
-        height: 70vh;
+        height: 90vh;
         padding: 0 80px;
         background-position: top 30% right 30%;
     }
@@ -1158,8 +1158,8 @@ footer .copyright {
     }
 
     #feature .fe-box {
-        width: 155px;
-        margin: 0 0 15px 0;
+	width: 135px;
+	margin: 0 0 15px 0;
     }
 
     #product1 .pro {
@@ -1172,7 +1172,7 @@ footer .copyright {
     }
 
     #banner {
-        height: 40vh;
+        height: 60vh;
     }
 
     #sm-banner .banner-box {
